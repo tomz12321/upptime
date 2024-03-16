@@ -4,19 +4,19 @@
     "url": "https://tomz12321-tailwind-astro-blog.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tomz12321-tailwind-astro-blog.dev.ico",
     "slug": "personal-blog",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 161,
-    "timeDay": 144,
-    "timeWeek": 159,
-    "timeMonth": 167,
-    "timeYear": 161,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 159,
+    "timeDay": 127,
+    "timeWeek": 152,
+    "timeMonth": 164,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-03-16": 8
+      "2024-03-16": 15
     }
   },
   {
