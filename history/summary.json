@@ -4,7 +4,7 @@
     "url": "https://tomz12321-tailwind-astro-blog.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tomz12321-tailwind-astro-blog.dev.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 164,
     "timeMonth": 168,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Pokedex Astro App",
